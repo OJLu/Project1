@@ -32,7 +32,7 @@
         "Sensitivity":{"Value":"","Notes":""},
         "Resolution":{"Value":"","Notes":""},
         "Etch_rate":{"Value":"","Notes":""},
-		"Min_linewidth":{"Value":"","Notes":""},
+	"Min_linewidth":{"Value":"","Notes":""},
         "Dissolution_rate":{"Value":"","Notes":""},
         "Solubility":[{"Solvent":"","Solubility":""},{"Solvent":"","Solubility":""}],
         "Refractive_index":{"n":"","k":"","wavelength":"","Notes":""},
